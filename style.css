@@ -1,12 +1,15 @@
 body {
-    background-color: aqua;
+  background-color: aqua;
 }
+
 #title{
-    text-align: center;
+  text-align: center;
 }
+
 #description {
-    text-align: center;
+  text-align: center;
 }
-#survey-form{
-    text-align: center;
+
+#survey-form {
+  text-align: center;
 }
